@@ -1,2 +1,2 @@
 # ENVIR460FinalProject
-This is my ENVIR 460 final project - a website that examines the power dynamics at play in the conservation of Yosemite National Park in California.
+This is my ENVIR 460 final project - a website that examines the power dynamics at play in the conservation of Yosemite National Park in California. Using the theoretical framework of Governmentality, the website will explore how the state, private organizations, and local communities negotiate power in decision-making processes related to the park’s preservation. Through the website, I am to identify any power imbalances and inequities that exist within the conservation efforts of Yosemite National Park and promote a better understanding of the complexities of conservation efforts.
