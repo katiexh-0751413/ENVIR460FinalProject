@@ -1,19 +1,11 @@
 .picture {
   width: 300px;
   border: 1px solid #FBFBFF;
-  border-radius: 10px;
-  cursor: pointer;
   object-fit: cover;
   aspect-ratio: 1;
 
   /* centers the image */
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.picture:hover {
-  filter: brightness(80%);
 }
 
 .picture-container {
@@ -75,9 +67,19 @@ nav {
   font-family: 'Nanum Gothic', sans-serif;
 }
 
-p {
-  margin-right: 200px;
+.p1 {
   margin-left: 200px;
+  font-size: larger;
+}
+
+.p2 {
+  margin-right: 200px;
+  font-size: larger;
+}
+
+.p3 {
+  margin-left: 200px;
+  margin-right: 200px;
   font-size: larger;
 }
 
@@ -88,6 +90,22 @@ h1 {
 
 h2, h3 {
   font-family: 'Playfair Display', serif;
+  /* margin-right: 200px;
+  margin-left: 200px; */
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pic1 {
   margin-right: 200px;
+  margin-left: 100px;
+}
+
+.pic2 {
+  margin-right: 100px;
   margin-left: 200px;
 }
